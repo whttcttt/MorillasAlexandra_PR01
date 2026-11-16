@@ -3,7 +3,17 @@ guid: 7d5a1198479e7fb46bb3e37b5ad406fa
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrickWideShader
+    second: {fileID: 2100000, guid: 439d4680753b6574c8a387c834460f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StuccoShader
+    second: {fileID: 2100000, guid: ddbfc9c8c998d4549b6772ea7ab4bdd1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
